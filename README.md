@@ -1,8 +1,8 @@
 <div align="center">
 <img src="https://github.com/canocalir/canocalir/blob/main/greetings.gif?raw=true" align="center" style="width: 100% />
 </div>  
-<h1 align="center">Hi 👋, I'm Can (John)</h1>
-<h3 align="center">A passionate developer and React enthusiast 👨‍💻 working remotely since 2019 🚀</h3>
+##<h1 align="center">Hi 👋, I'm Can (John)</h1>
+###<h3 align="center">A passionate developer and React enthusiast 👨‍💻 working remotely since 2019 🚀</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canocalir" alt="canocalir" /></a> </p>
   
