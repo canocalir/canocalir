@@ -2,11 +2,9 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 <h1 align="center">Hi 👋, I'm Can (John)</h1>
-<h3 align="center">A passionate developer and React enthusiast</h3>
+<h3 align="center">A passionate developer and React enthusiast 👨‍💻 working remotely since 2019 🚀</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canocalir" alt="canocalir" /></a> </p>
-
-### <div align="center">I'm CAN (John), Full-stack Developer and React Enthusiast 👨‍💻 working remotely since 2019 🚀</div>  
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canocalir" alt="canocalir" /></a> </p>
   
 
 - 🔭 I’m currently working on React Projects  
