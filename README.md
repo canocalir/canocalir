@@ -121,14 +121,44 @@
 </div>  
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/nefraim"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nefraim" /></a></p><br><br>
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=canocalir&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=canocalir&show_icons=true&locale=en&layout=compact" alt="canocalir" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canocalir&show_icons=true&locale=en" alt="canocalir" /></p>
+<br/>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canocalir&" alt="canocalir" /></p>
 
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21b6xtgwhwk2e2fynz6xupiny&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=canocalir&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center">
+            <a href="https://paypal.me/can.ocalir@gmail.com" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
+                    align="center"
+                />
+            </a>
+            <a href="https://www.buymeacoffee.com/nefraim" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
+                    align="center"
+                />
+            </a></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
