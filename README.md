@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 <h1 align="center">Hi 👋, I'm Can (John)</h1>
 <h3 align="center">A passionate developer and React enthusiast</h3>
 
