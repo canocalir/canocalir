@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Can (John)</h1>
 <h3 align="center">A passionate developer and React enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=canocalir&label=Profile%20views&color=0e75b6&style=flat" alt="canocalir" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canocalir" alt="canocalir" /></a> </p>
 
 ### <div align="center">I'm CAN (John), Full-stack Developer and React Enthusiast 👨‍💻 working remotely since 2019 🚀</div>  
