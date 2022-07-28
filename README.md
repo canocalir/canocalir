@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/canocalir/canocalir/blob/main/greetings.gif?raw=true" align="center" style="width: 50%"/>
+<img src="https://github.com/canocalir/canocalir/blob/main/greetings.gif?raw=true" align="center" style="width: 30%"/>
 </div>  
 <h1 align="center">Hi 👋, I'm Can (John)</h1>
 <h3 align="center">A passionate developer and React enthusiast 👨‍💻 working remotely since 2019 🚀</h3>
