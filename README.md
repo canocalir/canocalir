@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Can (John)</h1>
 <h3 align="center">A passionate developer and React enthusiast 👨‍💻 working remotely since 2019 🚀</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canocalir&theme=onedark" alt="canocalir" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canocalir" alt="canocalir" /></a> </p>
 
 
 - 🔭 I’m currently working on React Projects  
