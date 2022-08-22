@@ -4,11 +4,13 @@
 <img src="https://github.com/canocalir/canocalir/blob/output/github-contribution-grid-snake.gif"/>
 </div>
 -->
+
 ### 
 
 <div align="center">
 <img src="./profile-3d-contrib/profile-green-animate.svg"/>
 </div>
+
 <!--
 ###
 
@@ -17,6 +19,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=react&hide_border=true&username=canocalir" height="150" alt="languages graph"  />
 </div>
 -->
+
 ###
 
 <h2 align="center">My Tech Stack</h2>
