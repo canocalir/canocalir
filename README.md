@@ -95,7 +95,7 @@
 <br clear="both">
 
 <div align="center">
-<img src="https://github.com/canocalir/canocalir/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/canocalir/canocalir/blob/output/github-contribution-grid-snake.gif"/>
 </div>
 
 ### 
