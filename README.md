@@ -94,7 +94,9 @@
 
 <br clear="both">
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+<div align="center">
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif"/>
+</div>
 
 ### 
 
