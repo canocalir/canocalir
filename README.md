@@ -94,6 +94,10 @@
 
 ###
 
+<h2 align="center">Achievements</h2>
+
+###
+
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=canocalir&theme=react"/>
 </div>
@@ -127,7 +131,13 @@
 </div>  
   
 
-<br/>  
+<br/>
+
+###
+
+<h2 align="center">Support Me</h2>
+
+###
 
 <div align="center">
             <a href="https://paypal.me/can.ocalir@gmail.com" target="_blank" style="display: inline-block;">
