@@ -1,11 +1,9 @@
 <h2 align="center">Hi 👋! My name is Can and I'm a Full-Stack Developer</h2>
-
-###
-
+<!--
 <div align="center">
 <img src="https://github.com/canocalir/canocalir/blob/output/github-contribution-grid-snake.gif"/>
 </div>
-
+-->
 ### 
 
 <div align="center">
