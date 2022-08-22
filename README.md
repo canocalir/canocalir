@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=react&hide_border=true&username=canocalir" height="150" alt="languages graph"  />
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=canocalir&theme=onedark)]
+<div align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=canocalir&theme=onedark)]</div>
 
 ###
 
