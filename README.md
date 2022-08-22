@@ -94,7 +94,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/canocalir/canocalir/blob/output/snake.svg" alt="Snake animation" />
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 ### 
 
