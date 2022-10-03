@@ -25,11 +25,15 @@
 ###
 <br>
 
-## My projects
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+<h2 align="center"> My projects</h2>
+
+###
+
+  Project Name       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
 [Vanilla JS Weather App](https://exquisite-sfogliatella-fd758b.netlify.app/)| Vanilla JS, Pure CSS, OpenWeatherAPI |![vanillajs-weather-app](https://user-images.githubusercontent.com/11324886/192642440-dbbfd8c0-55d4-4df7-84ac-93767e6af39b.gif)
 
+<br>
 <h2 align="center">My Tech Stack</h2>
 
 ###
