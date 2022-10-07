@@ -32,6 +32,7 @@
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
 [Vanilla JS Weather App](https://exquisite-sfogliatella-fd758b.netlify.app/)| Vanilla JS, Pure CSS, OpenWeatherAPI |![vanillajs-weather-app](https://user-images.githubusercontent.com/11324886/192642440-dbbfd8c0-55d4-4df7-84ac-93767e6af39b.gif)
+[React Pokemon App](https://dulcet-chimera-3865aa.netlify.app/)| ReactJS, SASS |![pokemon-react](https://user-images.githubusercontent.com/11324886/194645677-a34223e7-7884-435d-b8bb-2f4a0afc2c38.gif)
 [React Image Gallery App](https://enchanting-buttercream-af6c58.netlify.app/)| ReactJS, PureCSS |![image-gallery-react](https://user-images.githubusercontent.com/11324886/194643891-f1cd2931-14aa-4c0d-ac35-d9656196201c.gif)
 
 <br>
