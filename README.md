@@ -35,6 +35,7 @@
 [Vanilla JS Todo App](https://strong-valkyrie-8f34a3.netlify.app/)| Vanilla JS, PureCSS, Sweet Alert |![vanillajs-todo](https://user-images.githubusercontent.com/11324886/190829342-e4f3b728-2843-4462-a3d9-c6f0914be4af.gif)
 [React Pokemon App](https://dulcet-chimera-3865aa.netlify.app/)| ReactJS, SASS |![pokemon-react](https://user-images.githubusercontent.com/11324886/194645677-a34223e7-7884-435d-b8bb-2f4a0afc2c38.gif)
 [React Image Gallery App](https://enchanting-buttercream-af6c58.netlify.app/)| ReactJS, PureCSS |![image-gallery-react](https://user-images.githubusercontent.com/11324886/194643891-f1cd2931-14aa-4c0d-ac35-d9656196201c.gif)
+[React Tour Places Gallery App](https://main--jovial-taiyaki-38ff24.netlify.app/)| ReactJS, SASS |![tour-places-gallery-react](https://user-images.githubusercontent.com/11324886/194786612-e2265dca-2cc6-40d0-8bd7-232945becf11.gif)
 
 <br>
 <h2 align="center">My Tech Stack</h2>
