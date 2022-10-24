@@ -49,9 +49,9 @@
 [Team Members CSS](https://fluffy-semifreddo-8f3261.netlify.app/)| HTML, PureCSS |![team-members-css](https://user-images.githubusercontent.com/11324886/197599494-d16cf238-655a-4792-bd26-949fe9361a3c.gif)
 
 <br>
-:---------------------------------------|-------------------------
 <h2 align="center">My NPM Packages</h2>
-https://www.npmjs.com/package/reactinrush
+<a href='https://www.npmjs.com/package/reactinrush'><img src='https://nodei.co/npm/reactinrush.png'/></a>
+
 <br>
 <h2 align="center">My Tech Stack</h2>
 
