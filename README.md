@@ -49,10 +49,6 @@
 [Team Members CSS](https://fluffy-semifreddo-8f3261.netlify.app/)| HTML, PureCSS |![team-members-css](https://user-images.githubusercontent.com/11324886/197599494-d16cf238-655a-4792-bd26-949fe9361a3c.gif)
 
 <br>
-<h2 align="center">My NPM Packages</h2>
-<a href='https://www.npmjs.com/package/reactinrush'><img src='https://nodei.co/npm/reactinrush.png'/></a>
-
-<br>
 <h2 align="center">My Tech Stack</h2>
 
 ###
@@ -108,6 +104,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" width="42" alt="yarn logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" width="42" alt="threejs logo"  />
 </div>
+
+<br>
+<h2 align="center">My NPM Packages</h2>
+<a href='https://www.npmjs.com/package/reactinrush'><img src='https://nodei.co/npm/reactinrush.png'/></a>
 
 ###
 
