@@ -33,6 +33,7 @@
 :-------------------------|-------------------------|-------------------------
 [Vanilla JS Weather App](https://exquisite-sfogliatella-fd758b.netlify.app/)| Vanilla JS, Pure CSS, OpenWeatherAPI |![vanillajs-weather-app](https://user-images.githubusercontent.com/11324886/192642440-dbbfd8c0-55d4-4df7-84ac-93767e6af39b.gif)
 [Vanilla JS Todo App](https://strong-valkyrie-8f34a3.netlify.app/)| Vanilla JS, PureCSS, Sweet Alert |![vanillajs-todo](https://user-images.githubusercontent.com/11324886/190829342-e4f3b728-2843-4462-a3d9-c6f0914be4af.gif)
+[Vanilla JS Calculator App](https://meek-biscotti-bec27e.netlify.app/)| Vanilla JS, PureCSS |![vanillajs-calculator](https://user-images.githubusercontent.com/11324886/197590935-0cc0c3be-34ca-42d8-a373-235313b4640c.gif)
 [React Turkey Earthquake App](https://chimerical-eclair-cd9cee.netlify.app/)| ReactJS, Pigeon Maps, SASS |![earthquake](https://user-images.githubusercontent.com/11324886/195408038-20a679dd-34a5-4607-80ae-e914048c6218.gif)
 [React Pokemon App](https://dulcet-chimera-3865aa.netlify.app/)| ReactJS, SASS |![pokemon-react](https://user-images.githubusercontent.com/11324886/194645677-a34223e7-7884-435d-b8bb-2f4a0afc2c38.gif)
 [React Image Gallery App](https://enchanting-buttercream-af6c58.netlify.app/)| ReactJS, PureCSS |![image-gallery-react](https://user-images.githubusercontent.com/11324886/194643891-f1cd2931-14aa-4c0d-ac35-d9656196201c.gif)
