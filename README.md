@@ -42,6 +42,7 @@
 [Vanilla JS Calculator App](https://meek-biscotti-bec27e.netlify.app/)| Vanilla JS, PureCSS |![vanillajs-calculator](https://user-images.githubusercontent.com/11324886/197590935-0cc0c3be-34ca-42d8-a373-235313b4640c.gif)
 [Netflix Clone CSS](https://golden-dieffenbachia-777dd8.netlify.app/)| HTML, PureCSS |![netflix-css](https://user-images.githubusercontent.com/11324886/197605073-f0bdd113-6645-4957-ad2c-0b462a30fb24.gif)
 [Google Clone CSS](https://sensational-mermaid-cb0764.netlify.app/)| HTML, PureCSS |![google-css](https://user-images.githubusercontent.com/11324886/183101468-d7c555bf-536b-4e09-99f9-a6c633783ce7.png)
+[AirBnb Clone CSS](https://melodic-lokum-a77b83.netlify.app/)| HTML, PureCSS |![airbnb-css](https://user-images.githubusercontent.com/11324886/182002702-700ef5eb-7d92-4212-bb01-3094d902de68.png)
 [Team Members CSS](https://fluffy-semifreddo-8f3261.netlify.app/)| HTML, PureCSS |![team-members-css](https://user-images.githubusercontent.com/11324886/197599494-d16cf238-655a-4792-bd26-949fe9361a3c.gif)
 
 <br>
