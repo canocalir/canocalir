@@ -31,8 +31,8 @@
 
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[React Turkey Earthquake App](https://chimerical-eclair-cd9cee.netlify.app/)| ReactJS, Pigeon Maps, SASS |![earthquake](https://user-images.githubusercontent.com/11324886/195408038-20a679dd-34a5-4607-80ae-e914048c6218.gif)
-[React Pokemon App](https://dulcet-chimera-3865aa.netlify.app/)| ReactJS, SASS |![pokemon-react](https://user-images.githubusercontent.com/11324886/194645677-a34223e7-7884-435d-b8bb-2f4a0afc2c38.gif)
+[React Turkey Earthquake App](https://chimerical-eclair-cd9cee.netlify.app/)| ReactJS, Pigeon Maps, SASS Modules |![earthquake](https://user-images.githubusercontent.com/11324886/195408038-20a679dd-34a5-4607-80ae-e914048c6218.gif)
+[React Pokemon App](https://dulcet-chimera-3865aa.netlify.app/)| ReactJS, React Router, SASS |![pokemon-react](https://user-images.githubusercontent.com/11324886/197602220-e1e1f573-ff52-4582-8f64-3429bd2c3cdf.gif)
 [React Image Gallery App](https://enchanting-buttercream-af6c58.netlify.app/)| ReactJS, PureCSS |![image-gallery-react](https://user-images.githubusercontent.com/11324886/194643891-f1cd2931-14aa-4c0d-ac35-d9656196201c.gif)
 [React Tour Places Gallery App](https://main--jovial-taiyaki-38ff24.netlify.app/)| ReactJS, SASS |![tour-places-gallery-react](https://user-images.githubusercontent.com/11324886/194786612-e2265dca-2cc6-40d0-8bd7-232945becf11.gif)
 [React Dashboard Example App(Task)](https://immfly-frontend-test.herokuapp.com/)| ReactJS, CSS |![dashboard-react](https://user-images.githubusercontent.com/11324886/197594289-b3d34e17-18ef-4c97-a926-cab893400871.gif)
