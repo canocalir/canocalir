@@ -107,8 +107,9 @@
 
 <br>
 <h2 align="center">My NPM Packages</h2>
+<div align="center">
 <a href='https://www.npmjs.com/package/reactinrush'><img src='https://nodei.co/npm/reactinrush.png'/></a>
-
+</div>
 ###
 
 <h2 align="center">Follow me</h2>
