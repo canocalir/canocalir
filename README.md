@@ -40,6 +40,7 @@
 [React Pricing Table App](https://rainbow-creponne-a8121c.netlify.app/)| ReactJS, CSS |![pricing-react](https://user-images.githubusercontent.com/11324886/197610573-9df32740-2c1c-43eb-883a-11430590252f.gif)
 [React Random User App](https://resilient-brioche-95a033.netlify.app/)| ReactJS, SASS Module |![random-user-react](https://user-images.githubusercontent.com/11324886/197899509-635353c9-f932-4ee4-8aec-ee3913315dcc.gif)
 [React Employee List App](https://sensational-quokka-924ea3.netlify.app/)| ReactJS, SASS Module |![employee-react](https://user-images.githubusercontent.com/11324886/197614000-0fe0f77e-2949-4652-87d1-0b9154937e76.gif)
+[Vanilla JS Riot Games Task](https://eloquent-donut-64fe03.netlify.app/)| Vanilla JS, CSS |![vanilla-riot](https://user-images.githubusercontent.com/11324886/197901090-c35a30d0-e35c-4136-8769-3e01a7eae050.gif)
 [Vanilla JS Clock](https://fascinating-dieffenbachia-754712.netlify.app/)| Vanilla JS, CSS |![vanilla-clock](https://user-images.githubusercontent.com/11324886/197597536-92244b1e-338f-442f-b999-5801d260763b.gif)
 [Vanilla JS Weather App](https://exquisite-sfogliatella-fd758b.netlify.app/)| Vanilla JS, Pure CSS, OpenWeatherAPI |![vanillajs-weather-app](https://user-images.githubusercontent.com/11324886/192642440-dbbfd8c0-55d4-4df7-84ac-93767e6af39b.gif)
 [Vanilla JS Todo App](https://strong-valkyrie-8f34a3.netlify.app/)| Vanilla JS, PureCSS, Sweet Alert |![vanillajs-todo](https://user-images.githubusercontent.com/11324886/190829342-e4f3b728-2843-4462-a3d9-c6f0914be4af.gif)
