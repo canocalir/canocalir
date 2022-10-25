@@ -38,6 +38,7 @@
 [React Dashboard Example App(Task)](https://immfly-frontend-test.herokuapp.com/)| ReactJS, CSS |![dashboard-react](https://user-images.githubusercontent.com/11324886/197594289-b3d34e17-18ef-4c97-a926-cab893400871.gif)
 [React Developer News App](https://canocalir.github.io/popular-news/)| ReactJS, CSS |![news-react](https://user-images.githubusercontent.com/11324886/197608576-0e0cf7bf-f7f1-4d7a-b373-09f50d61bf48.gif)
 [React Pricing Table App](https://rainbow-creponne-a8121c.netlify.app/)| ReactJS, CSS |![pricing-react](https://user-images.githubusercontent.com/11324886/197610573-9df32740-2c1c-43eb-883a-11430590252f.gif)
+[React Random User App](https://resilient-brioche-95a033.netlify.app/)| ReactJS, SASS Module |![random-user-react](https://user-images.githubusercontent.com/11324886/197899509-635353c9-f932-4ee4-8aec-ee3913315dcc.gif)
 [React Employee List App](https://sensational-quokka-924ea3.netlify.app/)| ReactJS, SASS Module |![employee-react](https://user-images.githubusercontent.com/11324886/197614000-0fe0f77e-2949-4652-87d1-0b9154937e76.gif)
 [Vanilla JS Clock](https://fascinating-dieffenbachia-754712.netlify.app/)| Vanilla JS, CSS |![vanilla-clock](https://user-images.githubusercontent.com/11324886/197597536-92244b1e-338f-442f-b999-5801d260763b.gif)
 [Vanilla JS Weather App](https://exquisite-sfogliatella-fd758b.netlify.app/)| Vanilla JS, Pure CSS, OpenWeatherAPI |![vanillajs-weather-app](https://user-images.githubusercontent.com/11324886/192642440-dbbfd8c0-55d4-4df7-84ac-93767e6af39b.gif)
