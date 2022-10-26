@@ -37,6 +37,7 @@
 [React Tour Places Gallery App](https://main--jovial-taiyaki-38ff24.netlify.app/)| ReactJS, SASS |![tour-places-gallery-react](https://user-images.githubusercontent.com/11324886/194786612-e2265dca-2cc6-40d0-8bd7-232945becf11.gif)
 [React Dashboard Example App(Task)](https://immfly-frontend-test.herokuapp.com/)| ReactJS, CSS |![dashboard-react](https://user-images.githubusercontent.com/11324886/197594289-b3d34e17-18ef-4c97-a926-cab893400871.gif)
 [React Developer News App](https://canocalir.github.io/popular-news/)| ReactJS, CSS |![news-react](https://user-images.githubusercontent.com/11324886/197608576-0e0cf7bf-f7f1-4d7a-b373-09f50d61bf48.gif)
+[React Ingredient Recognition App](https://carty-food-recognition.herokuapp.com/)| ReactJS, CSS |![food-react](https://user-images.githubusercontent.com/11324886/197904180-2abc3d7b-e9a5-4e39-a7ec-f7822a12d07e.gif)
 [React Pricing Table App](https://rainbow-creponne-a8121c.netlify.app/)| ReactJS, CSS |![pricing-react](https://user-images.githubusercontent.com/11324886/197610573-9df32740-2c1c-43eb-883a-11430590252f.gif)
 [React Random User App](https://resilient-brioche-95a033.netlify.app/)| ReactJS, SASS Module |![random-user-react](https://user-images.githubusercontent.com/11324886/197899509-635353c9-f932-4ee4-8aec-ee3913315dcc.gif)
 [React Employee List App](https://sensational-quokka-924ea3.netlify.app/)| ReactJS, SASS Module |![employee-react](https://user-images.githubusercontent.com/11324886/197614000-0fe0f77e-2949-4652-87d1-0b9154937e76.gif)
