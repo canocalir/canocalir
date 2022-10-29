@@ -32,6 +32,7 @@
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
 [React Turkey Earthquake App](https://chimerical-eclair-cd9cee.netlify.app/) | ReactJS, Pigeon Maps, SASS Modules |![earthquake](https://user-images.githubusercontent.com/11324886/195408038-20a679dd-34a5-4607-80ae-e914048c6218.gif)
+[React Recipe App](https://prismatic-duckanoo-10bdd4.netlify.app/login) | ReactJS, React Router, Styled Components, SASS Modules |![react-recipe](https://user-images.githubusercontent.com/11324886/198851171-71801f20-ec83-4a10-8ca7-1dd7737e884c.gif)
 [React Pokemon App](https://dulcet-chimera-3865aa.netlify.app/)| ReactJS, React Router, SASS |![pokemon-react](https://user-images.githubusercontent.com/11324886/197602220-e1e1f573-ff52-4582-8f64-3429bd2c3cdf.gif)
 [React Dashboard Example App(Task)](https://immfly-frontend-test.herokuapp.com/)| ReactJS, CSS |![dashboard-react](https://user-images.githubusercontent.com/11324886/197594289-b3d34e17-18ef-4c97-a926-cab893400871.gif)
 [React Developer News App](https://canocalir.github.io/popular-news/)| ReactJS, CSS |![news-react](https://user-images.githubusercontent.com/11324886/197608576-0e0cf7bf-f7f1-4d7a-b373-09f50d61bf48.gif)
