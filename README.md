@@ -31,7 +31,7 @@
 
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[React Schipol Airport Flights App](https://reliable-chimera-0baadb.netlify.app/) <h3>[Repo](https://github.com/canocalir/schipol-metrics)</h3> | ReactJS, Styled Components, React Toastify, Official Schipol Api |![schipol](https://user-images.githubusercontent.com/11324886/200136369-42e3d85c-8f91-4d55-a5df-e8ab93f4549d.gif)
+[React Schiphol Airport Flights App](https://reliable-chimera-0baadb.netlify.app/) <h3>[Repo](https://github.com/canocalir/schipol-metrics)</h3> | ReactJS, Styled Components, React Toastify, Official Schipol Api |![schiphol](https://user-images.githubusercontent.com/11324886/200136369-42e3d85c-8f91-4d55-a5df-e8ab93f4549d.gif)
 [React Turkey Earthquake App](https://chimerical-eclair-cd9cee.netlify.app/) <h3>[Repo](https://github.com/canocalir/earthquake-app)</h3> | ReactJS, Pigeon Maps, SASS Modules |![earthquake](https://user-images.githubusercontent.com/11324886/195408038-20a679dd-34a5-4607-80ae-e914048c6218.gif)
 [React Recipe App](https://prismatic-duckanoo-10bdd4.netlify.app/login) <h3>[Repo](https://github.com/canocalir/recipe-app)</h3> | ReactJS, React Router, Styled Components, SASS Modules |![react-recipe](https://user-images.githubusercontent.com/11324886/198851171-71801f20-ec83-4a10-8ca7-1dd7737e884c.gif)
 [React Pokemon App](https://dulcet-chimera-3865aa.netlify.app/) <h3>[Repo](https://github.com/canocalir/pokemon-test)</h3> | ReactJS, React Router, SASS |![pokemon-react](https://user-images.githubusercontent.com/11324886/197602220-e1e1f573-ff52-4582-8f64-3429bd2c3cdf.gif)
