@@ -31,6 +31,7 @@
 
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
+[React Typescript Chat App](https://dev-chat-rosy.vercel.app/) <h3>[Repo](https://github.com/canocalir/dev-chat)</h3> | ReactJS, Redux Toolkit, Firebase, TypeScript, Styled Components |![chat](https://user-images.githubusercontent.com/11324886/210832985-47112059-3770-404a-b350-d58923b7281f.gif)
 [React ISS Realtime Location App](https://iss-tracker-globe.vercel.app/) <h3>[Repo](https://github.com/canocalir/iss-tracker-globe)</h3> | ReactJS, Redux Toolkit, RTK Query, TypeScript, Three Js, Styled Components |![iss](https://user-images.githubusercontent.com/11324886/209843461-3439e52f-073b-46b9-88c9-ca9a3f77792c.gif)
 [React Schiphol Airport Flights App](https://reliable-chimera-0baadb.netlify.app/) <h3>[Repo](https://github.com/canocalir/schipol-metrics)</h3> | ReactJS, Styled Components, React Toastify, Official Schipol Api |![schiphol](https://user-images.githubusercontent.com/11324886/200136369-42e3d85c-8f91-4d55-a5df-e8ab93f4549d.gif)
 [React - Redux Firebase Blog App](https://gleaming-bunny-a87b8c.netlify.app/) <h3>[Repo](https://github.com/canocalir/reactor-blog)</h3> | ReactJS, Styled Components, Redux Toolkit, Firebase | ![blog](https://user-images.githubusercontent.com/11324886/202948194-cd867a9d-aa44-4da3-9312-5859f2a84049.gif)
