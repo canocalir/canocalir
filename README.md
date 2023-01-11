@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/11324886/211690037-8a55c43f-449d-47a7-872d-09136549e361.jpeg"/>
+</div>
+
+
 <h2 align="center">Hi 👋! My name is Can and I'm a Front-end Developer with React skills</h2>
 <!--
 <div align="center">
