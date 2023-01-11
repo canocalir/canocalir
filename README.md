@@ -3,7 +3,7 @@
 </div>
 
 
-/* <h2 align="center">Hi 👋! My name is Can and I'm a Front-end Developer with React skills</h2> */
+<!-- <h2 align="center">Hi 👋! My name is Can and I'm a Front-end Developer with React skills</h2> -->
 <!--
 <div align="center">
 <img src="https://github.com/canocalir/canocalir/blob/output/github-contribution-grid-snake.gif"/>
