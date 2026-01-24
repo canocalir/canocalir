@@ -36,7 +36,7 @@
 
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[React Typescript Solar System App](https://dev-chat-rosy.vercel.app/) <h3>[Repo](https://github.com/canocalir/dev-chat)</h3> | ReactJS, Redux Toolkit, TypeScript, Styled Components |![sol](https://github.com/user-attachments/assets/1f22d6e0-9525-4cab-8e8d-d701dba01488)
+[React Typescript Solar System App](https://sol-system-d2ph.vercel.app/) <h3>[Repo](https://github.com/canocalir/sol-system)</h3> | ReactJS, Redux Toolkit, TypeScript, Styled Components |![sol](https://github.com/user-attachments/assets/53beb495-8c10-4527-9fd6-1eb6e39c00a3)
 [React Typescript Chat App](https://dev-chat-rosy.vercel.app/) <h3>[Repo](https://github.com/canocalir/dev-chat)</h3> | ReactJS, Redux Toolkit, Firebase, TypeScript, Styled Components |![chat](https://user-images.githubusercontent.com/11324886/210832985-47112059-3770-404a-b350-d58923b7281f.gif)
 [React ISS Realtime Location App](https://iss-tracker-globe.vercel.app/) <h3>[Repo](https://github.com/canocalir/iss-tracker-globe)</h3> | ReactJS, Redux Toolkit, RTK Query, TypeScript, Three Js, Styled Components |![iss](https://user-images.githubusercontent.com/11324886/209843461-3439e52f-073b-46b9-88c9-ca9a3f77792c.gif)
 [React Schiphol Airport Flights App](https://reliable-chimera-0baadb.netlify.app/) <h3>[Repo](https://github.com/canocalir/schipol-metrics)</h3> | ReactJS, Styled Components, React Toastify, Official Schipol Api |![schiphol](https://user-images.githubusercontent.com/11324886/200136369-42e3d85c-8f91-4d55-a5df-e8ab93f4549d.gif)
